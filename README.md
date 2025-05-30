@@ -37,15 +37,15 @@
 
 #### 4. **Как использовать**  
 ##### Шаг 1: Получите шаблон  
-- Скачайте файл `IDEF0_Template.driwio` из репозитория.  
+- Скачайте файл `IDEF0.drawio` из репозитория.  
 - **Или склонируйте репозиторий**:  
   ```bash
-  git clone https://github.com/ваш-username/название-репозитория.git
+  https://github.com/KoWalevDV/Universal-IDEF0-template-for-Drawio.git
   ```
 
 ##### Шаг 2: Импорт в Driwio  
-1. Откройте [Drawio](https://driwio.com/) → "New Project".  
-2. Выберите **Import** → загрузите `IDEF0_Template.driwio`.  
+1. Откройте [Drawio](https://drawio.com/) → "New Project".  
+2. Выберите **Import** → загрузите `IDEF0.drawio`.  
 3. Готово! Все элементы доступны на панели инструментов.  
 
 ##### Шаг 3: Редактирование  
